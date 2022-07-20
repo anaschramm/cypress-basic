@@ -8,6 +8,8 @@ Estudos voltados para o Cypress
 - Testes de Upload de arquivos
 - Testando links que abrem em outros navegadores
 - Testes simulando as dimensões de um dispotisivo móvel
+- Execução de testes em um pipeline de integração contínua
+
 
 Curso: Talking About Test
 
